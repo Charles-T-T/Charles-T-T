@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Charles-T-T
-- 🌱 I’m currently learning Golang and MIT-6.824
+- 🌱 I’m currently learning Golang and CMU 15-455
 - 📫 How to reach me: 2022201535@ruc.edu.cn
 - 😄 Pronouns: helicopter (doge :dog: 
 - ⚡ Now interning in Beijing and being suuuuper homesick :sob: 
