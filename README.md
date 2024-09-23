@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Charles-T-T
-- 🌱 I’m currently learning Golang and CMU 15-455
+- 🌱 I’m currently learning Golang and CMU 15-445
 - 📫 How to reach me: 2022201535@ruc.edu.cn
 - 😄 Pronouns: helicopter (doge :dog: 
-- ⚡ Now interning in Beijing and being suuuuper homesick :sob: 
+- ⚡ Favorites: calligraphy :paintbrush: , badminton :badminton:
 
 <!---
 Charles-T-T/Charles-T-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
