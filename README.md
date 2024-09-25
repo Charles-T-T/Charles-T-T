@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Charles-T-T
+- 👋 Hi, I’m @Charles_T_T
 - 🌱 I’m currently learning Golang and CMU 15-445
 - 📫 How to reach me: 2022201535@ruc.edu.cn
 - 😄 Pronouns: helicopter (doge :dog: 
