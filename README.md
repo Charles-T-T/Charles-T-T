@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charles_T_T
 - 🌱 I’m currently learning Golang and MIT 6.5840
-- 📫 How to reach me: 2022201535@ruc.edu.cn
+- 📫 How to reach me: fanhaotian1@ruc.edu.cn
 - 😄 Pronouns: helicopter (doge :dog: 
 - ⚡ Favorites: calligraphy :paintbrush: , badminton :badminton:
 
