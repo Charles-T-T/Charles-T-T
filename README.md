@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Charles_T_T
-- 🌱 I’m currently learning Golang and MIT 6.5840
-- 📫 How to reach me: fanhaotian1@ruc.edu.cn
-- 😄 Pronouns: helicopter (doge :dog: 
+- 🌱 My current research interest lies in AI4Mental and AI4Social
+- 📫 How to reach me: haotianfan@link.cuhk.edu.cn
+- 😄 Pronouns: he/him
 - ⚡ Favorites: calligraphy :paintbrush: , badminton :badminton:
 
 <!---
